@@ -1,0 +1,34 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+    1 00000000         ;eto nash include-file
+    2 00000000         
+    3 00000000 20000100 
+                       STACK_TOP
+                               EQU              0x20000100
+    4 00000000         
+    5 00000000                 END
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
+ork --depend=.\objects\config.d -o.\objects\config.o -ID:\STM_labs\RTE -IC:\Kei
+l_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include -IC:\Keil_v5\ARM\CMSIS\In
+clude --predefine="__EVAL SETA 1" --predefine="__UVISION_VERSION SETA 521" --pr
+edefine="STM32F10X_MD_VL SETA 1" --list=.\listings\config.lst CONFIG.s
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+Absolute symbols
+
+STACK_TOP 20000100
+
+Symbol: STACK_TOP
+   Definitions
+      At line 3 in file CONFIG.s
+   Uses
+      None
+Comment: STACK_TOP unused
+1 symbol
+334 symbols in table

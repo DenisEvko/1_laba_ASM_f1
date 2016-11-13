@@ -1,0 +1,6 @@
+Dependencies for Project 'lab1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\CONFIG.s)(0x57DD0D1A)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -ID:\Ucheba\STM32\labs\STM_labs\RTE-IP:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IP:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 521" --pd "STM32F10X_MD_VL SETA 1"--list .\config.lst --xref -o .\config.o --depend .\config.d)
+F (.\LAB.s)(0x58265E74)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -ID:\Ucheba\STM32\labs\STM_labs\RTE-IP:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IP:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 521" --pd "STM32F10X_MD_VL SETA 1"--list .\lab.lst --xref -o .\lab.o --depend .\lab.d)
+I (stm32f10x.s)(0x57DD0B5B)
+I (config.s)(0x57DD0D1A)
+F (.\stm32f10x.s)(0x57DD0B5B)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -ID:\Ucheba\STM32\labs\STM_labs\RTE-IP:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IP:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 521" --pd "STM32F10X_MD_VL SETA 1"--list .\stm32f10x.lst --xref -o .\stm32f10x.o --depend .\stm32f10x.d)

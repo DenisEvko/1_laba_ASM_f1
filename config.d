@@ -1,0 +1,1 @@
+.\config.o: CONFIG.s
